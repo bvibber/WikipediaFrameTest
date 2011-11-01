@@ -33,6 +33,7 @@
 		D471D9AB1460659B000FF9AE /* Capture.bundle in Resources */ = {isa = PBXBuildFile; fileRef = D471D9AA1460659B000FF9AE /* Capture.bundle */; };
 		D471D9AD1460659C000FF9AE /* PhoneGap.plist in Resources */ = {isa = PBXBuildFile; fileRef = D471D9AC1460659B000FF9AE /* PhoneGap.plist */; };
 		D471D9B11460659C000FF9AE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D471D9B01460659C000FF9AE /* AppDelegate.m */; };
+		D471D9BA146065F8000FF9AE /* www in Resources */ = {isa = PBXBuildFile; fileRef = D471D9B9146065F8000FF9AE /* www */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,6 +68,7 @@
 		D471D9AF1460659C000FF9AE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Classes/AppDelegate.h; sourceTree = "<group>"; };
 		D471D9B01460659C000FF9AE /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = Classes/AppDelegate.m; sourceTree = "<group>"; };
 		D471D9B31460659C000FF9AE /* README */ = {isa = PBXFileReference; lastKnownFileType = text; name = README; path = Plugins/README; sourceTree = "<group>"; };
+		D471D9B9146065F8000FF9AE /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; path = www; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 		D471D95E1460659B000FF9AE = {
 			isa = PBXGroup;
 			children = (
+				D471D9B9146065F8000FF9AE /* www */,
 				D471D98A1460659B000FF9AE /* WikipediaFrameTest */,
 				D471D96F1460659B000FF9AE /* Frameworks */,
 				D471D96D1460659B000FF9AE /* Products */,
@@ -290,6 +293,7 @@
 				D471D9A91460659B000FF9AE /* Default@2x.png in Resources */,
 				D471D9AB1460659B000FF9AE /* Capture.bundle in Resources */,
 				D471D9AD1460659C000FF9AE /* PhoneGap.plist in Resources */,
+				D471D9BA146065F8000FF9AE /* www in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
